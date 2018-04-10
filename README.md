@@ -7,6 +7,8 @@ Long Range IoT Wireless Two Channel Counter can be found over here https://store
 
 https://ncd.io/long-range-iot-wireless-two-channel-counter-getting-started/
 
+To use this Labview Utility You will need a Wireless to USB router, whihc can be found over here https://store.ncd.io/product/900hp-s3b-long-range-wireless-mesh-modem-with-usb-interface/
+
 Labview Driver for ncd.io Long Range IoT Wireless One Channel Counter with Reset Transmitter
 
 this Labview software will work with ncd.io wireless Thermocouple sesnor only
